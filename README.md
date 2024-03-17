@@ -1,0 +1,2 @@
+# DuskNode
+run a dusknode
